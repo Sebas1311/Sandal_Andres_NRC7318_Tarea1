@@ -56,6 +56,7 @@ https://gitmind.com/app/doc/2fb10915732
 (4.2108)(210-5)=2.11013
 
 3.2 Notación de ingeniería y prefijos métricos
+
 14. Exprese cada número en notación de ingeniería:
 2.35105=235103
 7.32107=73.2106
