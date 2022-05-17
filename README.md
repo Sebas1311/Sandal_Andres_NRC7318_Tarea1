@@ -115,3 +115,6 @@ Determinar las unidades de medida en el Sistema Internacional determinadas en el
 
 - Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
 - Khan, S. (2016). Notación científica. Khan Academy. Revisado Mayo 17, 2022, de https://es.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation/v/scientific-notation 
+
+8. Anexo
+- https://docs.google.com/document/d/1YVadryK7f2F4cL9jh-_d1tnX9kDZ1N1tX9kXLQDqvv0/edit?usp=sharing
