@@ -23,7 +23,7 @@ Determinar las unidades de medida en el Sistema Internacional determinadas en el
 -Aplicar lo aprendido en distintos ejercicios para desarrollar un mayor aprendizaje y agilidad en el uso de los mismos. 
 
 3. Marco teórico
-https://gitmind.com/app/doc/2fb10915732
+-link: https://gitmind.com/app/doc/2fb10915732
 
 ![image](https://user-images.githubusercontent.com/105684550/168758503-c6cb6696-7760-4b7b-924e-107de6b4ef4a.png)
 
