@@ -29,7 +29,7 @@ https://gitmind.com/app/doc/2fb10915732
 
 
 4. Explicación
-Notación científica
+3.1 Notación científica
 2. Exprese cada número fraccionario en notación científica:
 1500=210-3
 12000=510-4
@@ -55,7 +55,7 @@ Notación científica
 (2.510-6)(5.010-8)=0.5102=5101=50
 (4.2108)(210-5)=2.11013
 
-Notación de ingeniería y prefijos métricos
+3.2 Notación de ingeniería y prefijos métricos
 14. Exprese cada número en notación de ingeniería:
 2.35105=235103
 7.32107=73.2106
@@ -86,7 +86,7 @@ Notación de ingeniería y prefijos métricos
 43 mV=4310-3V
 275 k=275103 
 
-Conversiones de unidades métricas
+3.3 Conversiones de unidades métricas
 28. Determine lo siguiente:
 (a) El número de microamperes en 1 miliampere 
 1 mA =110-3A=100010-6A=1000 A
@@ -101,10 +101,14 @@ Conversiones de unidades métricas
 =10103(12.2103)=0.92100=92010-3=920 m
 250 mV50 V=(25010-3V)(5010-6V)=5103V=5 kV
 1 MW2 kW=(1106W)(2103W)=0.5103W=0.5 kW
-Video
-Conclusiones
-Las medidas ya sean fundamentales como derivadas son esenciales para la categorización de distintas magnitudes, las mismas que nos permiten agilizar y facilitar la identificación de un valor referente a una magnitud, es decir, se puede diferenciar e identificar qué magnitud del Sistema Internacional es, con simplemente observar el símbolo que acompaña al valor numérico.
-En cuanto a la notación científica también ha sido de gran utilidad al momento de  escribir un valor numérico pequeño, es decir, con muchos decimales y a su vez a escribir un valor numérico que sea demasiado grande; Esta notación nos permite reducir su escritura y por ende facilitar el uso de esos valores al momento de realizar operaciones y/o conversiones.  
-Bibliografía
-Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
-Khan, S. (2016). Notación científica. Khan Academy. Revisado Mayo 17, 2022, de https://es.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation/v/scientific-notation 
+4. Video
+
+5. Conclusiones
+
+- Las medidas ya sean fundamentales como derivadas son esenciales para la categorización de distintas magnitudes, las mismas que nos permiten agilizar y facilitar la identificación de un valor referente a una magnitud, es decir, se puede diferenciar e identificar qué magnitud del Sistema Internacional es, con simplemente observar el símbolo que acompaña al valor numérico.
+- En cuanto a la notación científica también ha sido de gran utilidad al momento de  escribir un valor numérico pequeño, es decir, con muchos decimales y a su vez a escribir un valor numérico que sea demasiado grande; Esta notación nos permite reducir su escritura y por ende facilitar el uso de esos valores al momento de realizar operaciones y/o conversiones.  
+
+6. Bibliografía
+
+- Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
+- Khan, S. (2016). Notación científica. Khan Academy. Revisado Mayo 17, 2022, de https://es.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation/v/scientific-notation 
